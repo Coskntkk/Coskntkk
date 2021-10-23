@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Coşkun</h1>
-<h3 align="center">A self-taught Developer from Ankara, Turkey</h3>
+<h3 align="center">A self-learner Developer from Ankara, Turkey</h3>
 
 ``` javascript
 const coskun = {
