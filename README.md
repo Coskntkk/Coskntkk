@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hello there 👋, I'm Coşkun</h1>
+<h3 align="center">A self-taught Developer from Ankara, Turkey</h3>
+
 ``` javascript
 const coskun = {
   fullName: "Coşkun Atak",
@@ -11,17 +13,13 @@ const coskun = {
 }
 ```
 
-<!--
-**Coskntkk/Coskntkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **anything you want.**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **coskntkk@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">My Social Media:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/coskunatak"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30"/></a>
+<a href="https://twitter.com/dimaetor"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30"/></a>
+  
+<h2 align="center">Work in progress...⌛</h2>
