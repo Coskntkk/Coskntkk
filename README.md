@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+``` javascript
 const coskun = {
   fullName: "Coşkun Atak",
   age: 24,
