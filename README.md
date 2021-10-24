@@ -17,7 +17,7 @@ const coskun = {
 
 - 📫 How to reach me **coskntkk@gmail.com**
 
-<h3 align="center">Ways to Reach Me:</h3>
+<h3 align="center">Other Ways to Reach Me:</h3>
 
 <h4 align="left">Social Media</h4>
 <p align="left">
@@ -29,7 +29,7 @@ const coskun = {
 <a href="https://stackoverflow.com/users/16814829/co%c5%9fkun"><img align="center" src="https://juststickers.in/wp-content/uploads/2019/07/stackoverflow.png" alt="stackoverflow" height="30" width="30"/></a>
 <a href="https://www.hackerrank.com/coskntkk"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="hackerrank" height="30" width="30"/></a>
   
-  
+***
   
 <h3 align="center">My Skills:</h3>
 
@@ -46,10 +46,9 @@ const coskun = {
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" alt="mongo" height="30" width="30"/>
   
 <h4 align="left">Mobile Development</h4>
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" height="30" width="30"/>
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" height="30" width="30"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" height="30" width="30"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" height="30" width="30"/>
 
 <h4 align="left">Other Skills</h4>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="dart" height="30" width="30"/>
   
-<h2 align="center">Work in progress...⌛</h2>
