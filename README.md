@@ -66,7 +66,7 @@ const coskun = {
   <h3 align="center">My GitHub Stats:</h3>
 
 <h4 align="left">My Activity</h4>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Coskun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="left">My Languages</h4>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coskntkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
