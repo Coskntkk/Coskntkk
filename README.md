@@ -17,10 +17,19 @@ const coskun = {
 
 - 📫 How to reach me **coskntkk@gmail.com**
 
-<h3 align="left">My Social Media:</h3>
+<h3 align="center">Ways to Reach Me:</h3>
+
+<h4 align="left">Social Media</h4>
 <p align="left">
 <a href="https://linkedin.com/in/coskunatak"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30"/></a>
 <a href="https://twitter.com/dimaetor"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30"/></a>
+
+<h4 align="left">Tech Communities</h4>
+<p align="left">
+<a href="https://stackoverflow.com/users/16814829/co%c5%9fkun"><img align="center" src="https://juststickers.in/wp-content/uploads/2019/07/stackoverflow.png" alt="stackoverflow" height="30" width="30"/></a>
+<a href="https://www.hackerrank.com/coskntkk"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="hackerrank" height="30" width="30"/></a>
+  
+  
   
 <h3 align="center">My Skills:</h3>
 
