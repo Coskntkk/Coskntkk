@@ -61,5 +61,5 @@ const coskun = {
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" height="30" width="30"/>
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/postman-3628992-3030217.png" alt="postman" height="30" width="30"/>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk&show_icons=true&line_height=0.5rem)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coskntkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
