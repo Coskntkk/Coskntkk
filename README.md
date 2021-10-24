@@ -62,3 +62,4 @@ const coskun = {
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/postman-3628992-3030217.png" alt="postman" height="30" width="30"/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coskntkk)](https://github.com/anuraghazra/github-readme-stats)
