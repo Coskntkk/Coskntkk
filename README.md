@@ -53,3 +53,12 @@ const coskun = {
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="python" height="30" width="30"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/godot/godot-original.svg" alt="godot" height="30" width="30"/>
+  
+<h4 align="left">Tools</h4>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="vscode" height="30" width="30"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/atom/atom-original.svg" alt="atom" height="30" width="30"/>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" height="30" width="30"/>
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/postman-3628992-3030217.png" alt="postman" height="30" width="30"/>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk)](https://github.com/anuraghazra/github-readme-stats)
