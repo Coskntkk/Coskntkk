@@ -47,8 +47,8 @@ const coskun = {
   
 <h4 align="left">Mobile Development</h4>
 <p align="left">
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" height="30" width="30"/>
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" height="30" width="30"/>                                                                                                       
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg" alt="dart" height="30" width="30"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg" alt="flutter" height="30" width="30"/>                                                                                                       
 <h4 align="left">Other Skills</h4>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="python" height="30" width="30"/>
