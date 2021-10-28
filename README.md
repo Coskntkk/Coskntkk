@@ -31,7 +31,7 @@ const coskun = {
   
 ***
   
-<h3 align="center">My Skills:</h3>
+<h2 align="center">My Skills:</h3>
 
 <h4 align="left">Web Development</h4>
 <p align="left">
@@ -60,10 +60,20 @@ const coskun = {
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/atom/atom-original.svg" alt="atom" height="30" width="30"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" height="30" width="30"/>
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/postman-3628992-3030217.png" alt="postman" height="30" width="30"/>
+  
+<h2 align="center">My Projects:</h3>
+
+<img src="https://raw.githubusercontent.com/Coskntkk/old-twitter-clone/main/public/images/loginLogo.png" alt="alt text" width="350px" height="225px"> 
+
+## [ Old Twitter Clone ]( https://github.com/Coskntkk/old-twitter-clone )
+
+<img src="https://raw.githubusercontent.com/Coskntkk/viewme.md/main/icon/icon.ico.png" alt="alt text" width="225px" height="225px">
+
+## [Viewme.md Online Markdown Editor ]( https://coskntkk.github.io/viewme.md/ )
 
 ***
   
-<h3 align="center">My GitHub Stats:</h3>
+<h2 align="center">My GitHub Stats:</h3>
 
 <h4 align="left">My Activity</h4>
 
@@ -72,3 +82,5 @@ const coskun = {
 <h4 align="left">My Languages</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coskntkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+***
