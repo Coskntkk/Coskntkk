@@ -28,6 +28,7 @@ const coskun = {
 <p align="left">
 <a href="https://stackoverflow.com/users/16814829/co%c5%9fkun"><img align="center" src="https://juststickers.in/wp-content/uploads/2019/07/stackoverflow.png" alt="stackoverflow" height="30" width="30"/></a>
 <a href="https://www.hackerrank.com/coskntkk"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="hackerrank" height="30" width="30"/></a>
+<a href="https://www.npmjs.com/~dimaehor"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="30"/></a>
   
 ***
   
