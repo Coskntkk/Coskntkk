@@ -3,13 +3,21 @@
 
 ``` javascript
 const coskun = {
+
   fullName: "Coşkun Atak",
+
   age: 24,
+
   place: "Ankara, Turkey",
+
   pronouns: "he" || "him",
+
   interests: ["Web Development", "Game Development", "Mobile Development"],
+
   otherInterests: ["Video Games", "Astronomy", "Science-Fiction", "Classic History"],
+
   mbti: "INTP",
+
 }
 ```
 
