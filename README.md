@@ -1,10 +1,10 @@
 <h1 align="center">Hello there 👋, I'm Coşkun</h1>
-<h3 align="center">A self-learner Developer from Ankara, Turkey</h3>
+<h3 align="center">A Fullstack Web Developer from Ankara, Turkey</h3>
 
 ``` javascript
 const coskun = {
   fullName: "Coşkun Atak",
-  age: 24,
+  age: 25,
   place: "Ankara, Turkey",
   pronouns: "he" || "him",
   interests: ["Web Development", "Game Development", "Mobile Development"],
