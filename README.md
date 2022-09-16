@@ -70,6 +70,8 @@ const coskun = {
 
 <h4 align="left">My Activity</h4>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coskntkk)](https://git.io/streak-stats)
+
 [![Coskun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="left">My Languages</h4>
