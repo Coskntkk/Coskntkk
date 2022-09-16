@@ -81,7 +81,3 @@ const coskun = {
 ***
 
 ![](https://komarev.com/ghpvc/?username=Coskntkk)
-
-***
-
-<a href="https://app.daily.dev/coskntkk6"><img src="https://api.daily.dev/devcards/bd1b4ddba263480ba78868f9c0a124bd.png?r=jfn" width="400" alt="Coşkun Atak's Dev Card"/></a>
