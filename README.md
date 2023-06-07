@@ -17,7 +17,9 @@ const coskun = {
 
 - 📫 How to reach me **coskntkk@gmail.com**
 
-- You can [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/coskntkk)
+- You can:
+
+<a href="https://www.buymeacoffee.com/coskntkk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 
 
 <h3 align="center">Other Ways to Reach Me:</h3>
