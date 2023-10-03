@@ -70,21 +70,3 @@ const coskun = {
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/atom/atom-original.svg" alt="atom" height="30" width="30"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" height="30" width="30"/>
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/postman-3628992-3030217.png" alt="postman" height="30" width="30"/>
-  
-***
-  
-<h2 align="center">My GitHub Stats:</h3>
-
-<h4 align="left">My Activity</h4>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coskntkk)](https://git.io/streak-stats)
-
-[![Coskun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coskntkk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<h4 align="left">My Languages</h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coskntkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-
-![](https://komarev.com/ghpvc/?username=Coskntkk)
