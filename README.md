@@ -4,7 +4,7 @@
 ``` javascript
 const coskun = {
   fullName: "Coşkun Atak",
-  age: 26,
+  age: 27,
   place: "Ankara, Turkey",
   pronouns: "he" || "him",
   interests: ["Web Development", "Game Development", "Mobile Development"],
